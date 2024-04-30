@@ -7,4 +7,6 @@ Et pour finir on fait un programme de propagation de l'entrée jusqu'à la sorti
 
 La difficulté est de récupérer en argument le nom d'un fichier, de pouvoir lire un fichier, le stocker dans un buffer afin de pouvoir l'utiliser à nos soins. 
 
+Grâce à ce projet j'ai appris à prendre en argument le nom d'un fichier, de pouvoir l'ouvrir et de pouvoir le lire. De plus il faut pouvoir lire d'une manière à pouvoir l'utiliser afin que notre programme nous renvoie les bonnes informations comme le système d'une carte d'un jeu vidéo.
+
 ![image](https://github.com/Tonyecole89/projet_maze/assets/146326346/a06baf54-2b79-4098-ac1a-03f8b2de05cf)
