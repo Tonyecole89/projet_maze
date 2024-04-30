@@ -1,5 +1,7 @@
 # 2023_maze - Code C
 
+![image](https://github.com/Tonyecole89/projet_maze/assets/146326346/a06baf54-2b79-4098-ac1a-03f8b2de05cf)
+
 Cette fois le but était ici était de pouvoir lire une "carte" qui est un labyrinthe en deux dimensions dans un fichier. 
 La carte du labyrinthe contient des murs (#), des chemins où circuler (.), une entrée (S) et une sortie (G). 
 En premier lieu, on lit la carte labyrinthe en commençant par l'entrée et l'on retire les petits points quand l'on passe par dessus, les petits points étant un chemin accessible où l'on est jamais passé par dessus auparavant. On doit aussi savoir s'il y a une sortie, il ne faudrait pas que le programme tourne en boucle sans jamais s'arrêter car la sortie n'est pas accessible. 
@@ -9,4 +11,3 @@ La difficulté est de récupérer en argument le nom d'un fichier, de pouvoir li
 
 Grâce à ce projet j'ai appris à prendre en argument le nom d'un fichier, de pouvoir l'ouvrir et de pouvoir le lire. De plus il faut pouvoir lire d'une manière à pouvoir l'utiliser afin que notre programme nous renvoie les bonnes informations comme le système d'une carte d'un jeu vidéo.
 
-![image](https://github.com/Tonyecole89/projet_maze/assets/146326346/a06baf54-2b79-4098-ac1a-03f8b2de05cf)
